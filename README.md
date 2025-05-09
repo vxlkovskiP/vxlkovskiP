@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @vxlkovskiP
-- 👀 I’m currently studying a BSc in Business Computing at the American College of Thessaloniki
-- 🌱 I’m currently learning Java as a part of the CS105 course I'm taking.
+- 👋 Hi, I’m Petar!
+- 👀 I’m currently studying a BSc in Business Computing at the American College of Thessaloniki.
+- 🌱 Currently learning intermediate Java OOP and trying out YAML and Python
+- 🎓 If you're an ACT Student, check out my ACTResource repo for some stuff you might need!
 - 📫 You can reach me at velkovski.petar129@gmail.com for any inquiries.
 
 <!---
